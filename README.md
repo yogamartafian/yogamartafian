@@ -10,6 +10,7 @@
   </samp>
 </p>
 
+<p align="center">
 ### Tools and Framework
 ![Airflow](https://img.shields.io/badge/Airflow-green?logo=apacheairflow&logoColor=white)
 ![Google_BigQuery_Badge](https://img.shields.io/badge/BigQuery-white?logo=googlebigquery)
@@ -22,12 +23,13 @@
 ![Phyton](https://img.shields.io/badge/Phyton-white?logo=python)
 ![Postgres](https://img.shields.io/badge/Postgres-blue?logo=postgresql&logoColor=white)
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=Visual-Studio-Code&logoColor=white)
+</p>
 
 Here are some ideas to get you started:
 
 - 🎓 I’m a Bachelor of Informatics Engineering from Universitas Negeri Malang
 - 💻 I graduated from the Immersive Program at Alterra Academy as a Data Engineer
-- 🏫 I’m from Kutai Kartanegara, East Kalimantan (willing to relocate)
+- 🏫 I’m from Kutai Kartanegara, East Kalimantan (**willing to relocate**)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy working with data and writing SQL query
 - 📫 How to reach me:
