@@ -25,11 +25,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on My Professional Profile
-- 🌱 I’m currently learning Data Engineering
-- 👯 I’m looking to collaborate on Data Engineering Project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/yogamartafian/
+- 🎓 I’m a Bachelor of Informatics Engineering from Universitas Negeri Malang
+- 💻 I graduated from the Immersive Program at Alterra Academy as a Data Engineer
+- 🏫 I’m from Kutai Kartanegara, East Kalimantan (willing to relocate)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I enjoy working with data and writing SQL query
+- 📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/yogamartafian/
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://www.mail.google.com/yogamartafian@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/yogamartafian)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yogamartafian)
+  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6285195900903)
+
+<h2 align="left">
+        <samp>&gt; Top Repository</samp>
+</h2>
+<p align="left"> 
+[![Capstone_Project](https://github-readme-stats.vercel.app/api/pin/?username=yogamartafian&repo=capstone-project-with-dynamic-dag&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yogamartafian/capstone-project-with-dynamic-dag.git)
