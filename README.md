@@ -2,13 +2,17 @@
 [ I'm a data engineering enthusiast from **Indonesia** ]
 
 ### Tools and Framework
-![Github Badge](https://img.shields.io/badge/Github-black?logo=github)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)
-![Cloud-Shell](https://img.shields.io/badge/Cloud-Shell-blue?logo=googlecloud)
-![Phyton](https://img.shields.io/badge/Phyton-white?logo=python)
-![Postgres](https://img.shields.io/badge/Postgres-blue?logo=postgresql&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-green?logo=apacheairflow&logoColor=white)
 ![Google_BigQuery_Badge](https://img.shields.io/badge/BigQuery-white?logo=googlebigquery)
+![Cloud-Shell](https://img.shields.io/badge/Cloud-Shell-blue?logo=googlecloud)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)
+![Github Badge](https://img.shields.io/badge/Github-black?logo=github)
+![Google_Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=Google-Cloud&logoColor=white)
+![Google_Looker_Studio](https://img.shields.io/badge/Looker-4285F4.svg?logo=Looker&logoColor=white)
+![MY_SQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=MySQL&logoColor=white)
+![Phyton](https://img.shields.io/badge/Phyton-white?logo=python)
+![Postgres](https://img.shields.io/badge/Postgres-blue?logo=postgresql&logoColor=white)
+![Visual_Studio_Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=Visual-Studio-Code&logoColor=white)
 
 Here are some ideas to get you started:
 
@@ -20,3 +24,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/yogamartafian/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+
+
+<h3 align="center">
+        <samp>&gt; Hey There!, I am Yoga Martafian</samp>
+</h3>
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a Data Engineer from <b>Indonesia</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
