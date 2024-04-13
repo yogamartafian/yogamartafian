@@ -1,5 +1,14 @@
-# > Hi there! I am [Yoga Martafian](https://www.linkedin.com/in/yogamartafian/)
-[ I'm a data engineering enthusiast from **Indonesia** ]
+<h2 align="center">
+        <samp>&gt; Hey There!, I am Yoga Martafian</samp>
+</h2>
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a Data Engineer from <b>Indonesia</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 ### Tools and Framework
 ![Airflow](https://img.shields.io/badge/Airflow-green?logo=apacheairflow&logoColor=white)
@@ -24,16 +33,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/yogamartafian/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-
-
-<h3 align="center">
-        <samp>&gt; Hey There!, I am Yoga Martafian</samp>
-</h3>
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am a Data Engineer from <b>Indonesia</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
