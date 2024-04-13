@@ -36,9 +36,3 @@ Here are some ideas to get you started:
   [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/yogamartafian)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yogamartafian)
   [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6285195900903)
-
-<h2 align="left">
-        <samp>&gt; Top Repository</samp>
-</h2>
-<p align="left"> 
-[![Capstone_Project]([https://github.com/yogamartafian/capstone-project-with-dynamic-dag/blob/main/README.md])](https://github.com/yogamartafian/capstone-project-with-dynamic-dag.git)
