@@ -41,4 +41,4 @@ Here are some ideas to get you started:
         <samp>&gt; Top Repository</samp>
 </h2>
 <p align="left"> 
-[![Capstone_Project](https://github-readme-stats.vercel.app/api/pin/?username=yogamartafian&repo=capstone-project-with-dynamic-dag&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yogamartafian/capstone-project-with-dynamic-dag.git)
+[![Capstone_Project]([https://github-readme-stats.vercel.app/api/pin/?username=yogamartafian&repo=capstone-project-with-dynamic-dag&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF](https://github.com/yogamartafian/capstone-project-with-dynamic-dag/blob/main/README.md))](https://github.com/yogamartafian/capstone-project-with-dynamic-dag.git)
