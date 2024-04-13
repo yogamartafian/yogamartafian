@@ -1,5 +1,5 @@
 # > Hi there! I am [Yoga Martafian](https://www.linkedin.com/in/yogamartafian/)
-[ I'm a data engineering enthusiast from **Kutai Kartanegara, Indonesia** ]
+[ I'm a data engineering enthusiast from **Indonesia** ]
 
 ### Tools and Framework
 ![Github Badge](https://img.shields.io/badge/Github-black?logo=github)
